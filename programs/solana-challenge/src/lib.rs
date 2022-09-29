@@ -3,6 +3,7 @@ use anchor_lang::prelude::*;
 pub mod process;
 pub mod error;
 pub mod states;
+pub mod constants;
 
 use process::*;
 
